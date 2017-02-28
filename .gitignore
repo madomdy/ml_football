@@ -1,0 +1,6 @@
+.git
+*.doc
+.idea
+*.pyc
+venv
+database.sqlite
